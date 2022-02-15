@@ -20,7 +20,7 @@ body {
 
 #highlight-left {
   background: url("https://jolly-kalam-23776e.netlify.app/restaurantwebsite/images/taco.jpg");
-  width: 57vw;
+  width: 56vw;
   height: 35vh;
   background-position: right center;
 }
@@ -63,7 +63,9 @@ body {
 .catRw {
   display: flex;
   justify-content: space-between;
+  align-content:space-around;
   flex-wrap: wrap;
+  margin-bottom: 0.5rem;
 }
 
 .catCard {
